@@ -6,4 +6,4 @@ I've used https://jekyllrb.com customizing Minima theme and published it at http
 
 ### Live site ###
 
-http://santiruiz.me
+http://www.santiruiz.me
